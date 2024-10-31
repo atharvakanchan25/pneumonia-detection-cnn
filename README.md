@@ -9,14 +9,12 @@ This project implements a Convolutional Neural Network (CNN) for the automated d
 
 ## Table of Contents
 - [Installation](#installation)
-- [Usage](#usage)
 - [Dataset](#dataset)
 - [Model Architecture](#model-architecture)
 - [Results](#results)
 - [Evaluation Metrics](#evaluation-metrics)
 - [Requirements](#requirements)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Requirements
 This project requires a high computational power laptop or server, such as the NVIDIA Tesla T4, to handle the training and inference processes efficiently.
