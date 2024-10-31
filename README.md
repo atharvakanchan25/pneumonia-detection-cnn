@@ -7,22 +7,9 @@ This project implements a Convolutional Neural Network (CNN) for the automated d
 ## Overview
 This project implements a Convolutional Neural Network (CNN) for the automated detection of pneumonia from chest X-ray images. By leveraging deep learning techniques, the model aims to enhance early diagnosis and improve healthcare outcomes for patients at risk of pneumonia. This project was developed using Jupyter Notebook.
 
-## Table of Contents
-- [Installation](#installation)
-- [Dataset](#dataset)
-- [Model Architecture](#model-architecture)
-- [Results](#results)
-- [Evaluation Metrics](#evaluation-metrics)
-- [Requirements](#requirements)
-- [Contributing](#contributing)
-
+----------------------//-----------------//------------------//-------------------------------//------------------
 ## Requirements
 This project requires a high computational power laptop or server, such as the NVIDIA Tesla T4, to handle the training and inference processes efficiently.
-
-## USAGE
-Prepare your dataset of chest X-ray images and place them in the designated folder.
-Open the Jupyter Notebook file (pneumonia_detection.ipynb) and follow the instructions provided in the notebook to train the CNN model.
-After training, you can test the model on new images by running the appropriate sections in the notebook.
 
 ## Dataset
 This project utilizes the Chest X-ray Images (Pneumonia) dataset available on Kaggle, containing images of X-rays classified as pneumonia or normal.
