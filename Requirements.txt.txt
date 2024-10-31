@@ -1,0 +1,34 @@
+Requirements.txt
+
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+keras
+opencv-python
+Pillow
+jupyter
+
+
+Additional Considerations
+Make sure to include any specific versions of the libraries if needed. For example, if you're using TensorFlow 
+2.4.0, you can specify it like this: tensorflow==2.4.0.
+If you're using GPU support, you may need to include specific TensorFlow packages for GPU, like tensorflow-gpu.
+If you have any additional libraries specific to your implementation or that you found useful, be sure to add them as well.
+………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………
+
+Example of a Version-Specific requirements.txt
+
+
+numpy==1.21.2
+pandas==1.3.3
+matplotlib==3.4.3
+seaborn==0.11.2
+scikit-learn==0.24.2
+tensorflow==2.4.0
+keras==2.4.3
+opencv-python==4.5.3.20210927
+Pillow==8.3.2
+jupyter==1.0.0
