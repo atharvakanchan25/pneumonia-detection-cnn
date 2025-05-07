@@ -6,6 +6,8 @@ This project implements a Convolutional Neural Network (CNN) for the automated d
 
 ## Overview
 This project implements a Convolutional Neural Network (CNN) for the automated detection of pneumonia from chest X-ray images. By leveraging deep learning techniques, the model aims to enhance early diagnosis and improve healthcare outcomes for patients at risk of pneumonia. This project was developed using Jupyter Notebook.
+![Screenshot from 2025-05-07 10-12-39](https://github.com/user-attachments/assets/96e9623d-2726-4380-af4c-534ce07eb87f)
+
 
 ----------------------//-----------------//------------------//-------------------------------//------------------
 ## Requirements
